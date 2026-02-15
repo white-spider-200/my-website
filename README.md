@@ -23,11 +23,3 @@ This healthcare data gathering website is designed to facilitate the collection,
 3. **Set up the database**: Create a MySQL database and configure the connection settings in `application.properties`.
 4. **Run the application**: Execute the main class to start the server.
 
-## Contribution
-Contributions are welcome! Please create an issue for any suggestions or improvements, or submit a pull request for specific changes.
-
-## License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-## Contact
-For more information, please reach out to [your email or contact method].
